@@ -1,0 +1,20 @@
+{
+  "name": "watcher",
+  "version": "1.0.0",
+  "description": "Javascript object watcher",
+  "main": "watcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicilin/watcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicilin/watcher/issues"
+  },
+  "homepage": "https://github.com/alicilin/watcher#readme"
+}
